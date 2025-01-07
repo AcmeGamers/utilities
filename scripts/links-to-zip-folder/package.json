@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node links.js",
+    "dev": "node links.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.7.9",
+    "moment": "^2.30.1"
+  }
+}

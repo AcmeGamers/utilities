@@ -1,0 +1,1 @@
+Random utilities I find useful once in a lifetime, so why not
